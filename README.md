@@ -47,7 +47,7 @@ How to reach me:
 #### ⚡ Fun fact:
 Getting a job ain't the prority 😄
 
- **I use VIM btw :sunglassess:**
+ **I use VIM btw :sunglasses:**
 <!---
 henry-kimani/henry-kimani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
