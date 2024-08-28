@@ -10,18 +10,18 @@ signed an NDA :joy:.
 
 🌱 I’m currently learning web development. <br>
 
-### :wrench: Familiar Technologies
-:wrench: I mostly program in Javascript/Typescript :cupid: and rotate about is echo system.
+#### :wrench: Familiar Technologies
+I mostly program in Javascript/Typescript :cupid: and rotate about is echo system.
 Commonly Nextjs, Postgres
 
-### :dart: Goal
+#### :dart: Goal
 Backend and anything i that catches my eye :eyes:, anything that is IT. :computer:
 
  💞️ I’m looking to collaborate on javascript related projects 
 
-### ⚡ Fun fact
-Getting a job ain't the prority 😄.
-My love for linux shall remain for eternity :cupid:
+#### ⚡ Fun fact
+- Getting a job ain't the prority 😄.
+- My love for linux shall remain for eternity :cupid:
 
  **I use VIM btw :sunglasses:**
 <!---
