@@ -1,5 +1,8 @@
 ### 👋 Greetings Earthling :earth_africa:
 
+A developer driven by curiosity. Cruize through my repo and see what you can contribute to.
+Happy to merge you PR's.
+
 <hr></hr>
 
 ### ⚡ Fun facts about me
